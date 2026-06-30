@@ -12,8 +12,7 @@ The vault is organized as short Markdown notes with Obsidian wikilinks, formulas
 
 ## Current Focus
 
-- Gradient descent and optimization
-- Neural networks and machine learning concepts
+- AI and machine learning concepts
 - Mathematical foundations and definitions
 - Physics and computation topics
 - Intelligence, consciousness, and related formal frameworks
