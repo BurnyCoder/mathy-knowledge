@@ -24,7 +24,3 @@ Open the folder in Obsidian to browse the graph and follow `[[wikilinks]]` betwe
 ## Citation Style
 
 Notes use inline references and footnote-style citations where relevant. Source quality and coverage will improve as the vault grows.
-
-## License
-
-No license has been specified yet.
