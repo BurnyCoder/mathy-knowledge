@@ -1,6 +1,6 @@
 ## Definition
 
-A symbol is a mark, sign, or word that indicates, signifies, or is understood as representing an idea, object, relationship, or mathematical formula.^[https://en.wikipedia.org/wiki/Symbol]
+A symbol is a [[mark]], [[sign]], or [[word]] that indicates, signifies, or is understood as representing an [[idea]], [[object]], [[relationship]], or mathematical [[formula]].^[https://en.wikipedia.org/wiki/Symbol]
 
 ## Example
 

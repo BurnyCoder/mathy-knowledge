@@ -1,0 +1,3 @@
+Set theory is the branch of [[mathematical logic]] that studies [[set|sets]], which can be informally described as collections of objects. Although objects of any kind can be collected into a set, set theory – as a branch of mathematics – is mostly concerned with those that are relevant to mathematics as a whole.
+
+[[Set theory]] studies possible [[axiom system|axiom systems]] and their consequences. Since the first half of the 20th century, ZFC ([[Zermelo-Fraenkel set theory with the axiom of choice]]) has been the axiom system most commonly used."^[https://en.wikipedia.org/wiki/Set_theory] ^[https://plato.stanford.edu/entries/set-theory/] ^[https://ncatlab.org/nlab/show/set+theory]
