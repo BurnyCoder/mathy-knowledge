@@ -4,4 +4,4 @@
 
 Mathematics typically does not define precisely what constitutes a "set" or "collection", because such a definition would have to be in terms of something else previously defined. Instead, sets serve as foundational objects whose behavior is described by [[axiom|axioms]] modeled on intuition about collections, and then essentially all other mathematical objects are rigorously defined in terms of sets.
 
-[[Set theory]] studies possible [[axiom system|axiom systems]] and their consequences. Since the first half of the 20th century, ZFC ([[Zermelo-Fraenkel set theory with the axiom of choice]]) has been the axiom system most commonly used."^[https://en.wikipedia.org/wiki/Set_(mathematics)] ^[https://plato.stanford.edu/entries/set-theory/] ^[https://ncatlab.org/nlab/show/set]
+[[Set theory]] studies possible [[axiom system|axiom systems]] and their consequences. Since the first half of the 20th century, ZFC ([[Zermelo-Fraenkel set theory with the axiom of choice]]) has been the axiom system most commonly used for mathematics."^[https://en.wikipedia.org/wiki/Set_(mathematics)] ^[https://plato.stanford.edu/entries/set-theory/] ^[https://ncatlab.org/nlab/show/set]
